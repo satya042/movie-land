@@ -1,3 +1,9 @@
+## Preview
+
+
+![Screenshot 2023-05-31 174136](https://github.com/satya042/movie-land/assets/80916678/4ab4996d-107f-4857-8e3c-715108d53997)
+
+
 ## Installation
 
 - Clone/Fork the repo.
@@ -15,3 +21,7 @@ If you already have a GitHub profile (obviously)
 - Clone/Fork this repo and copy the files to your newly created repo
 - Customize your name, links and everything else for your landing page
 - git push
+
+
+
+
